@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmanuel
 - 👀 I’m interested in Biotech
 - 🌱 junior developer @ sage-code
-- 💞️ I’m looking to collaborate on learners for project
+- 💞️ I’m looking to collaborate in learning projects
 - 📫 How to reach me on eluwaemma01@gmail.com
 
 <!---
