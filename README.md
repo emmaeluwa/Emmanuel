@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emmaeluwa
+- 👋 Hi, I’m @emmanuel
 - 👀 I’m interested in Biotech
 - 🌱 I’m currently learning julia
 - 💞️ I’m looking to collaborate on learners for project
