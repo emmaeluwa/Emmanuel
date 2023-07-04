@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emmanuel
 - 👀 I’m interested in Biotech
-- 🌱 I’m currently learning julia
+- 🌱 junior developer @ sage-code
 - 💞️ I’m looking to collaborate on learners for project
 - 📫 How to reach me on eluwaemma01@gmail.com
 
